@@ -69,7 +69,7 @@ Blockly.LANG_COLOUR_RGB_TOOLTIP = 'Create a colour with the specified amount of 
 Blockly.LANG_COLOUR_BLEND_TITLE = 'blend';
 Blockly.LANG_COLOUR_BLEND_COLOUR1 = 'colour 1';
 Blockly.LANG_COLOUR_BLEND_COLOUR2 = 'colour 2';
-Blockly.LANG_COLOUR_BLEND_RATIO = 'ratio';
+Blockly.LANG_COLOUR_BLEND_RATIO = 'النسبة'; //'ratio';
 Blockly.LANG_COLOUR_BLEND_TOOLTIP = 'Blends two colours together with a given ratio (0.0 - 1.0).';
 
 // Control Blocks.
@@ -221,7 +221,7 @@ Blockly.LANG_MATH_TRIG_TOOLTIP_ATAN = 'Return the arctangent of a number.';
 
 Blockly.LANG_MATH_ONLIST_HELPURL = '';
 Blockly.LANG_MATH_ONLIST_INPUT_OFLIST = 'of list';
-Blockly.LANG_MATH_ONLIST_OPERATOR_SUM = 'sum';
+Blockly.LANG_MATH_ONLIST_OPERATOR_SUM = 'مجموع';
 Blockly.LANG_MATH_ONLIST_OPERATOR_MIN = 'min';
 Blockly.LANG_MATH_ONLIST_OPERATOR_MAX = 'max';
 Blockly.LANG_MATH_ONLIST_OPERATOR_AVERAGE = 'average';
@@ -320,7 +320,7 @@ Blockly.LANG_TEXT_CHANGECASE_OPERATOR_TITLECASE = 'Title Case';
 
 Blockly.LANG_TEXT_TRIM_HELPURL = 'http://www.liv.ac.uk/HPC/HTMLF90Course/HTMLF90CourseNotesnode91.html';
 Blockly.LANG_TEXT_TRIM_TITLE_SPACE = 'trim spaces from';
-Blockly.LANG_TEXT_TRIM_TITLE_SIDES = 'sides';
+Blockly.LANG_TEXT_TRIM_TITLE_SIDES = 'جوانب';
 Blockly.LANG_TEXT_TRIM_TOOLTIP = 'Return a copy of the text with spaces\n' +
     'removed from one or both ends.';
 Blockly.LANG_TEXT_TRIM_TITLE_SIDES = 'sides';
@@ -338,7 +338,7 @@ Blockly.LANG_TEXT_PROMPT_TITLE_PROMPT_FOR = 'prompt for';
 Blockly.LANG_TEXT_PROMPT_TITILE_WITH_MESSAGE = 'with message';
 Blockly.LANG_TEXT_PROMPT_TOOLTIP = 'Prompt for user input with the specified text.';
 Blockly.LANG_TEXT_PROMPT_TYPE_TEXT = 'text';
-Blockly.LANG_TEXT_PROMPT_TYPE_NUMBER = 'number';
+Blockly.LANG_TEXT_PROMPT_TYPE_NUMBER = 'رقم';
 
 // Lists Blocks.
 Blockly.LANG_CATEGORY_LISTS = 'قائمة';
@@ -371,7 +371,7 @@ Blockly.LANG_LISTS_INPUT_IS_EMPTY = 'is empty';
 Blockly.LANG_LISTS_TOOLTIP = 'Returns true if the list is empty.';
 
 Blockly.LANG_LISTS_INDEX_OF_HELPURL = 'http://publib.boulder.ibm.com/infocenter/lnxpcomp/v8v101/index.jsp?topic=%2Fcom.ibm.xlcpp8l.doc%2Flanguage%2Fref%2Farsubex.htm';
-Blockly.LANG_LISTS_INDEX_OF_TITLE_FIND = 'find';
+Blockly.LANG_LISTS_INDEX_OF_TITLE_FIND = 'ابحث عن';
 Blockly.LANG_LISTS_INDEX_OF_INPUT_OCCURRENCE = 'occurrence of item';
 Blockly.LANG_LISTS_INDEX_OF_INPUT_IN_LIST = 'in list';
 Blockly.LANG_LISTS_INDEX_OF_TOOLTIP = 'Returns the index of the first/last occurrence\n' +
@@ -388,7 +388,7 @@ Blockly.LANG_LISTS_GET_INDEX_TOOLTIP = 'Returns the value at the specified posit
 Blockly.LANG_LISTS_SET_INDEX_HELPURL = 'http://publib.boulder.ibm.com/infocenter/lnxpcomp/v8v101/index.jsp?topic=%2Fcom.ibm.xlcpp8l.doc%2Flanguage%2Fref%2Farsubex.htm';
 Blockly.LANG_LISTS_SET_INDEX_INPUT_AT = 'set item at';
 Blockly.LANG_LISTS_SET_INDEX_INPUT_IN_LIST = 'in list';
-Blockly.LANG_LISTS_SET_INDEX_INPUT_TO = 'to';
+Blockly.LANG_LISTS_SET_INDEX_INPUT_TO = 'الى';
 Blockly.LANG_LISTS_SET_INDEX_TOOLTIP = 'Sets the value at the specified position in a list.';
 
 // Variables Blocks.
