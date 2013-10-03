@@ -60,7 +60,7 @@ Blockly.LANG_COLOUR_PICKER_TOOLTIP = 'Choose a colour form the palette.';
 
 Blockly.LANG_COLOUR_RGB_HELPURL = 'http://en.wikipedia.org/wiki/RGB_color_model';
 Blockly.LANG_COLOUR_RGB_TITLE = 'colour with';
-Blockly.LANG_COLOUR_RGB_RED = 'red';
+Blockly.LANG_COLOUR_RGB_RED = 'أحمر';
 Blockly.LANG_COLOUR_RGB_GREEN = 'green';
 Blockly.LANG_COLOUR_RGB_BLUE = 'blue';
 Blockly.LANG_COLOUR_RGB_TOOLTIP = 'Create a colour with the specified amount of red, green,\n' +
