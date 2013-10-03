@@ -29,7 +29,7 @@
  */
 
 // Context menus.
-Blockly.MSG_DUPLICATE_BLOCK = 'Duplicate';
+Blockly.MSG_DUPLICATE_BLOCK = 'كرٌر';
 Blockly.MSG_REMOVE_COMMENT = 'حذف التعليق';
 Blockly.MSG_ADD_COMMENT = 'اضافة تعليق';
 Blockly.MSG_EXTERNAL_INPUTS = 'External Inputs';
