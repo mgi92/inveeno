@@ -63,14 +63,14 @@ Blockly.LANG_COLOUR_RGB_TITLE = 'لون مع';//'colour with';
 Blockly.LANG_COLOUR_RGB_RED = 'أحمر';
 Blockly.LANG_COLOUR_RGB_GREEN = 'أخضر';//'green';
 Blockly.LANG_COLOUR_RGB_BLUE = 'أزرق';//'blue';
-Blockly.LANG_COLOUR_RGB_TOOLTIP = 'Create a colour with the specified amount of red, green,\n' +
-    'and blue.  All values must be between 0.0 and 1.0.';
+Blockly.LANG_COLOUR_RGB_TOOLTIP = 'إنشاء لون من قيم محددة من الأحمر والأخضر،\n' +
+    'والأزرق. يجب أن تكون جميع القيم بين 0.0 و 1.0.'; //'Create a colour with the specified amount of red, green,\n and blue.  All values must be between 0.0 and 1.0.';
 
-Blockly.LANG_COLOUR_BLEND_TITLE = 'blend';
-Blockly.LANG_COLOUR_BLEND_COLOUR1 = 'colour 1';
-Blockly.LANG_COLOUR_BLEND_COLOUR2 = 'colour 2';
+Blockly.LANG_COLOUR_BLEND_TITLE = 'امزج';//'blend';
+Blockly.LANG_COLOUR_BLEND_COLOUR1 = 'لون 1';//'colour 1';
+Blockly.LANG_COLOUR_BLEND_COLOUR2 = 'لون 2';//'colour 2';
 Blockly.LANG_COLOUR_BLEND_RATIO = 'النسبة'; //'ratio';
-Blockly.LANG_COLOUR_BLEND_TOOLTIP = 'Blends two colours together with a given ratio (0.0 - 1.0).';
+Blockly.LANG_COLOUR_BLEND_TOOLTIP = 'يمزج لونين معا بنسبة معينة (0،0-1،0).';//'Blends two colours together with a given ratio (0.0 - 1.0).';
 
 // Control Blocks.
 Blockly.LANG_CATEGORY_CONTROLS = 'تحكم';
