@@ -102,33 +102,33 @@ Blockly.LANG_CONTROLS_REPEAT_HELPURL = 'http://en.wikipedia.org/wiki/For_loop';
 Blockly.LANG_CONTROLS_REPEAT_TITLE_REPEAT = 'كرر';
 Blockly.LANG_CONTROLS_REPEAT_TITLE_TIMES = 'عدد المرات';
 Blockly.LANG_CONTROLS_REPEAT_INPUT_DO = 'افعل';
-Blockly.LANG_CONTROLS_REPEAT_TOOLTIP = 'Do some statements several times.';
+Blockly.LANG_CONTROLS_REPEAT_TOOLTIP = 'قم بتنفيذ بعض البيانات عدة مرات.';//'Do some statements several times.';
 
 Blockly.LANG_CONTROLS_WHILEUNTIL_HELPURL = 'http://code.google.com/p/blockly/wiki/Repeat';
 Blockly.LANG_CONTROLS_WHILEUNTIL_TITLE_REPEAT = 'كرر';
 Blockly.LANG_CONTROLS_WHILEUNTIL_INPUT_DO = 'افعل';
 Blockly.LANG_CONTROLS_WHILEUNTIL_OPERATOR_WHILE = 'بينما';
 Blockly.LANG_CONTROLS_WHILEUNTIL_OPERATOR_UNTIL = 'حتى';
-Blockly.LANG_CONTROLS_WHILEUNTIL_TOOLTIP_WHILE = 'While a value is true, then do some statements.';
-Blockly.LANG_CONTROLS_WHILEUNTIL_TOOLTIP_UNTIL = 'While a value is false, then do some statements.';
+Blockly.LANG_CONTROLS_WHILEUNTIL_TOOLTIP_WHILE = 'بينما تكون القيمة صحيحة، قم بتنفيذ بعض البيانات.';//'While a value is true, then do some statements.';
+Blockly.LANG_CONTROLS_WHILEUNTIL_TOOLTIP_UNTIL = 'بينما تكون القيمة غير صحيحة، قم بتنفيذ بعض البيانات.';//'While a value is false, then do some statements.';
 
 Blockly.LANG_CONTROLS_FOR_HELPURL = 'http://en.wikipedia.org/wiki/For_loop';
 Blockly.LANG_CONTROLS_FOR_INPUT_WITH = 'ابدأ العد ب';
-Blockly.LANG_CONTROLS_FOR_INPUT_VAR = 'x';
+Blockly.LANG_CONTROLS_FOR_INPUT_VAR = 'س';//'x';
 Blockly.LANG_CONTROLS_FOR_INPUT_FROM = 'من';
 Blockly.LANG_CONTROLS_FOR_INPUT_TO = 'الى';
 Blockly.LANG_CONTROLS_FOR_INPUT_DO = 'افعل';
-Blockly.LANG_CONTROLS_FOR_TOOLTIP = 'Count from a start number to an end number.\n' +
-    'For each count, set the current count number to\n' +
-    'variable "%1", and then do some statements.';
+Blockly.LANG_CONTROLS_FOR_TOOLTIP = 'عد من عدد بداية لعدد نهاية.\n' +
+    'لكل عدّة، قم بتعيين عدد العدد الحالي إلى\n' +
+    'المتغير "%1"، ومن ثم قم بتنفيذ بعض البيانات.';//'Count from a start number to an end number. \n For each count, set the current count number to \n variable - fe %1 - , and then do some statements.';
 
 Blockly.LANG_CONTROLS_FOREACH_HELPURL = 'http://en.wikipedia.org/wiki/For_loop';
-Blockly.LANG_CONTROLS_FOREACH_INPUT_ITEM = 'for each item';
-Blockly.LANG_CONTROLS_FOREACH_INPUT_VAR = 'x';
-Blockly.LANG_CONTROLS_FOREACH_INPUT_INLIST = 'in list';
+Blockly.LANG_CONTROLS_FOREACH_INPUT_ITEM = 'لكل عنصر';//'for each item';
+Blockly.LANG_CONTROLS_FOREACH_INPUT_VAR = 'س';//'x';
+Blockly.LANG_CONTROLS_FOREACH_INPUT_INLIST = 'في قائمة';//'in list';
 Blockly.LANG_CONTROLS_FOREACH_INPUT_DO = 'افعل';
-Blockly.LANG_CONTROLS_FOREACH_TOOLTIP = 'For each item in a list, set the item to\n' +
-    'variable "%1", and then do some statements.';
+Blockly.LANG_CONTROLS_FOREACH_TOOLTIP = 'لكل عنصر في قائمة، قم بتعيين العنصر إلى\n' +
+    'المتغير "%1"و من ثم، قم بتنفيذ بعض البيانات.';//'For each item in a list, set the item to \n variable - fe %1 - 
 
 Blockly.LANG_CONTROLS_FLOW_STATEMENTS_HELPURL = 'http://en.wikipedia.org/wiki/Control_flow';
 Blockly.LANG_CONTROLS_FLOW_STATEMENTS_INPUT_OFLOOP = 'of loop';
