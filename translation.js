@@ -36,7 +36,7 @@ Blockly.MSG_EXTERNAL_INPUTS = 'المدخلات الخارجية'; //'ExternalIn
 Blockly.MSG_INLINE_INPUTS = 'المدخلات مضمنة'; //'Inline Inputs';
 Blockly.MSG_DELETE_BLOCK = 'احذف القالب';
 Blockly.MSG_DELETE_X_BLOCKS = 'حذف  قالب %1 ';
-Blockly.MSG_COLLAPSE_BLOCK = 'اطوِ القاب';//'Collapse Block';
+Blockly.MSG_COLLAPSE_BLOCK = 'اطوِ القالب';//'Collapse Block';
 Blockly.MSG_EXPAND_BLOCK = 'مدد القالب';
 Blockly.MSG_DISABLE_BLOCK = 'إبطال مفعول القالب';
 Blockly.MSG_ENABLE_BLOCK = 'تفعيل القالب';
@@ -75,28 +75,28 @@ Blockly.LANG_COLOUR_BLEND_TOOLTIP = 'يمزج لونين معا بنسبة مع�
 // Control Blocks.
 Blockly.LANG_CATEGORY_CONTROLS = 'تحكم';
 Blockly.LANG_CONTROLS_IF_HELPURL = 'http://code.google.com/p/blockly/wiki/If_Then';
-Blockly.LANG_CONTROLS_IF_TOOLTIP_1 = 'If a value is true, then do some statements.';
-Blockly.LANG_CONTROLS_IF_TOOLTIP_2 = 'If a value is true, then do the first block of statements.\n' +
-    'Otherwise, do the second block of statements.';
-Blockly.LANG_CONTROLS_IF_TOOLTIP_3 = 'If the first value is true, then do the first block of statements.\n' +
-    'Otherwise, if the second value is true, do the second block of statements.';
-Blockly.LANG_CONTROLS_IF_TOOLTIP_4 = 'If the first value is true, then do the first block of statements.\n' +
-    'Otherwise, if the second value is true, do the second block of statements.\n' +
-    'If none of the values are true, do the last block of statements.';
+Blockly.LANG_CONTROLS_IF_TOOLTIP_1 = 'إذا كانت القيمة صحيحة، قم بتنفيذ بعض البيانات.';//'If a value is true, then do some statements.';
+Blockly.LANG_CONTROLS_IF_TOOLTIP_2 = 'إذا كانت القيمة صحيحة، قم بتنفيذ قالب البيانات الاول\n' +
+    'على خلاف ذلك، قم بتنفيذ قالب البيانات الثاني.';//'If a value is true, then do the first block of statements. \n Otherwise, do the second block of statements.';
+Blockly.LANG_CONTROLS_IF_TOOLTIP_3 = 'إذا كانت القيمة صحيحة، قم بتنفيذ قالب البيانات الاول\n' +
+    'على خلاف ذلك، إذا كانت القيمة الثانية صحيحة، قم بتنفيذ قالب البيانات الثاني.';//'If the first value is true, then do the first block of statements. \n Otherwise, if the second value is true, do the second block of statements.';
+Blockly.LANG_CONTROLS_IF_TOOLTIP_4 = 'إذا كانت القيمة صحيحة، قم بتنفيذ قالب البيانات الاول\n' +
+    'على خلاف ذلك، إذا كانت القيمة الثانية صحيحة، قم بتنفيذ قالب البيانات الثاني.\n' +
+    'إذا كان أيً من القيم صحيحا، قم بتنفيذ آخر قالب بيانات.';//'If the first value is true, then do the first block of statements. \n Otherwise, if the second value is true, do the second block of statements. \n If none of the values are true, do the last block of statements.';
 Blockly.LANG_CONTROLS_IF_MSG_IF = 'اذا';
 Blockly.LANG_CONTROLS_IF_MSG_ELSEIF = 'أواذا';
 Blockly.LANG_CONTROLS_IF_MSG_ELSE = 'أو';
 Blockly.LANG_CONTROLS_IF_MSG_THEN = 'افعل';
 
 Blockly.LANG_CONTROLS_IF_IF_TITLE_IF = 'اذا';
-Blockly.LANG_CONTROLS_IF_IF_TOOLTIP = 'Add, remove, or reorder sections\n' +
-    'to reconfigure this if block.';
+Blockly.LANG_CONTROLS_IF_IF_TOOLTIP = 'إضافة أو إزالة، أو إعادة ترتيب الأقسام\n' +
+    'لإعادة تكوين قالب إذا.';//'Add, remove, or reorder sections \n to reconfigure this if block.';
 
 Blockly.LANG_CONTROLS_IF_ELSEIF_TITLE_ELSEIF = 'أو اذا';
-Blockly.LANG_CONTROLS_IF_ELSEIF_TOOLTIP = 'Add a condition to the if block.';
+Blockly.LANG_CONTROLS_IF_ELSEIF_TOOLTIP = 'اضف شرط إلى قالب إذا.';//'Add a condition to the if block.';
 
 Blockly.LANG_CONTROLS_IF_ELSE_TITLE_ELSE = 'او';
-Blockly.LANG_CONTROLS_IF_ELSE_TOOLTIP = 'Add a final, catch-all condition to the if block.';
+Blockly.LANG_CONTROLS_IF_ELSE_TOOLTIP = 'اضف شرط نهائي إلى كل شيء في قالب إذا.';//'Add a final, catch-all condition to the if block.';
 
 Blockly.LANG_CONTROLS_REPEAT_HELPURL = 'http://en.wikipedia.org/wiki/For_loop';
 Blockly.LANG_CONTROLS_REPEAT_TITLE_REPEAT = 'كرر';
