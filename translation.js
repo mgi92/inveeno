@@ -32,11 +32,11 @@
 Blockly.MSG_DUPLICATE_BLOCK = 'كرٌر';
 Blockly.MSG_REMOVE_COMMENT = 'حذف التعليق';
 Blockly.MSG_ADD_COMMENT = 'اضافة تعليق';
-Blockly.MSG_EXTERNAL_INPUTS = 'External Inputs';
-Blockly.MSG_INLINE_INPUTS = 'Inline Inputs';
+Blockly.MSG_EXTERNAL_INPUTS = 'المدخلات الخارجية'; //'ExternalInputs';
+Blockly.MSG_INLINE_INPUTS = 'المدخلات مضمنة'; //'Inline Inputs';
 Blockly.MSG_DELETE_BLOCK = 'احذف القالب';
 Blockly.MSG_DELETE_X_BLOCKS = 'حذف  قالب %1 ';
-Blockly.MSG_COLLAPSE_BLOCK = 'Collapse Block';
+Blockly.MSG_COLLAPSE_BLOCK = 'اطوِ القاب';//'Collapse Block';
 Blockly.MSG_EXPAND_BLOCK = 'مدد القالب';
 Blockly.MSG_DISABLE_BLOCK = 'إبطال مفعول القالب';
 Blockly.MSG_ENABLE_BLOCK = 'تفعيل القالب';
@@ -59,10 +59,10 @@ Blockly.LANG_COLOUR_PICKER_HELPURL = 'http://en.wikipedia.org/wiki/Color';
 Blockly.LANG_COLOUR_PICKER_TOOLTIP = 'Choose a colour form the palette.';
 
 Blockly.LANG_COLOUR_RGB_HELPURL = 'http://en.wikipedia.org/wiki/RGB_color_model';
-Blockly.LANG_COLOUR_RGB_TITLE = 'colour with';
+Blockly.LANG_COLOUR_RGB_TITLE = 'لون مع';//'colour with';
 Blockly.LANG_COLOUR_RGB_RED = 'أحمر';
-Blockly.LANG_COLOUR_RGB_GREEN = 'green';
-Blockly.LANG_COLOUR_RGB_BLUE = 'blue';
+Blockly.LANG_COLOUR_RGB_GREEN = 'أخضر';//'green';
+Blockly.LANG_COLOUR_RGB_BLUE = 'أزرق';//'blue';
 Blockly.LANG_COLOUR_RGB_TOOLTIP = 'Create a colour with the specified amount of red, green,\n' +
     'and blue.  All values must be between 0.0 and 1.0.';
 
