@@ -56,7 +56,7 @@ Blockly.MSG_PROCEDURE_CATEGORY = 'الاجراءات';
 // Colour Blocks.
 Blockly.LANG_CATEGORY_COLOUR = 'اللون';
 Blockly.LANG_COLOUR_PICKER_HELPURL = 'http://en.wikipedia.org/wiki/Color';
-Blockly.LANG_COLOUR_PICKER_TOOLTIP = 'Choose a colour form the palette.';
+Blockly.LANG_COLOUR_PICKER_TOOLTIP = 'اختر لون من لوحة الألوان'; //Choose a colour form the palette.
 
 Blockly.LANG_COLOUR_RGB_HELPURL = 'http://en.wikipedia.org/wiki/RGB_color_model';
 Blockly.LANG_COLOUR_RGB_TITLE = 'لون مع';//'colour with';
